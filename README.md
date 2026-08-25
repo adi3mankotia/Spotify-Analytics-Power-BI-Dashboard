@@ -95,20 +95,6 @@ The dataset covers Spotify Top 50 chart data from **May 2023 to November 2024**.
 * Monthly and quarterly comparisons
 * Custom dashboard formatting and Spotify-inspired design
 
-## Project Files
-
-```text
-Spotify-Analytics-Power-BI-Dashboard/
-│
-├── README.md
-├── Spotify-Dashboard.pbix
-│
-├── data/
-│   └── spotify-top-50-world.xlsx
-│
-└── images/
-    └── dashboard-preview.png
-```
 
 ### `Spotify-Dashboard.pbix`
 
